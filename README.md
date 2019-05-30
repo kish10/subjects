@@ -3,4 +3,4 @@
 ## Math
 
 ### Vector Spaces
-Duals & Linear Forms
+[The Duals Space, and Linear Forms.](math/vector_spaces/duals.tex.md)
