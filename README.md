@@ -15,3 +15,7 @@ Data Analysis Using Regression and Multilevel/Hierarchical Models
 
 Miguel Hernan, Harvad School of Public Health
 -- [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+
+Totte Harinen and Bonnie Li - 
+[Using Causal Inference to Improve the Uber User Experience
+(June 2019)](https://eng.uber.com/causal-inference-at-uber/)
