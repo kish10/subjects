@@ -19,3 +19,6 @@ Miguel Hernan, Harvad School of Public Health
 Totte Harinen and Bonnie Li - 
 [Using Causal Inference to Improve the Uber User Experience
 (June 2019)](https://eng.uber.com/causal-inference-at-uber/)
+
+Science Direct - Psychology
+-- [Causal Inference - topic page](https://www.sciencedirect.com/topics/psychology/causal-inference) 
